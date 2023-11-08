@@ -1,0 +1,22 @@
+[
+{
+  "directory": "C:/Users/nk2ps/Downloads/cmake_tutorial/build",
+  "command": "C:\\PROGRA~1\\MICROS~3\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -IC:/Users/nk2ps/Downloads/cmake_tutorial/build -IC:/Users/nk2ps/Downloads/cmake_tutorial/MathFunctions -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -Wextra -Wshadow -Wformat=2 -Wunused -o CMakeFiles\\Tutorial.dir\\tutorial.cxx.obj -c C:\\Users\\nk2ps\\Downloads\\cmake_tutorial\\tutorial.cxx",
+  "file": "C:\\Users\\nk2ps\\Downloads\\cmake_tutorial\\tutorial.cxx"
+},
+{
+  "directory": "C:/Users/nk2ps/Downloads/cmake_tutorial/build",
+  "command": "C:\\PROGRA~1\\MICROS~3\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DEXPORTING_MYMATH -DMathFunctions_EXPORTS -DUSE_MYMATH -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -Wextra -Wshadow -Wformat=2 -Wunused -o MathFunctions\\CMakeFiles\\MathFunctions.dir\\MathFunctions.cxx.obj -c C:\\Users\\nk2ps\\Downloads\\cmake_tutorial\\MathFunctions\\MathFunctions.cxx",
+  "file": "C:\\Users\\nk2ps\\Downloads\\cmake_tutorial\\MathFunctions\\MathFunctions.cxx"
+},
+{
+  "directory": "C:/Users/nk2ps/Downloads/cmake_tutorial/build",
+  "command": "C:\\PROGRA~1\\MICROS~3\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -Wextra -Wshadow -Wformat=2 -Wunused -o MathFunctions\\CMakeFiles\\MakeTable.dir\\MakeTable.cxx.obj -c C:\\Users\\nk2ps\\Downloads\\cmake_tutorial\\MathFunctions\\MakeTable.cxx",
+  "file": "C:\\Users\\nk2ps\\Downloads\\cmake_tutorial\\MathFunctions\\MakeTable.cxx"
+},
+{
+  "directory": "C:/Users/nk2ps/Downloads/cmake_tutorial/build",
+  "command": "C:\\PROGRA~1\\MICROS~3\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -IC:/Users/nk2ps/Downloads/cmake_tutorial/build/MathFunctions -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Wall -Wextra -Wshadow -Wformat=2 -Wunused -o MathFunctions\\CMakeFiles\\SqrtLibrary.dir\\mysqrt.cxx.obj -c C:\\Users\\nk2ps\\Downloads\\cmake_tutorial\\MathFunctions\\mysqrt.cxx",
+  "file": "C:\\Users\\nk2ps\\Downloads\\cmake_tutorial\\MathFunctions\\mysqrt.cxx"
+}
+]

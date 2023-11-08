@@ -1,0 +1,12 @@
+# ninja log v5
+3	3763	7210701832978297	MathFunctions/CMakeFiles/MakeTable.dir/MakeTable.cxx.obj	402ef9ea013f4ab7
+3994	9310	7210701888677489	C:/Users/nk2ps/Downloads/cmake_tutorial/build/MathFunctions/Table.h	6fe36cace43daa0c
+10000	12718	7210701911920025	SqrtLibraryd.lib	6b13edc7d22f5262
+3768	3993	7210701835198991	MakeTable.exe	28f236fd67857d24
+12718	12879	7210701924089598	MathFunctionsd.lib	556ffd72f4c69b01
+3994	9310	7210701888677489	MathFunctions/Table.h	6fe36cace43daa0c
+9315	9438	7210701889742260	MathFunctions/CMakeFiles/MathFunctions.dir/MathFunctions.cxx.obj	e207cb24c8c63c30
+9321	10000	7210701895465662	MathFunctions/CMakeFiles/SqrtLibrary.dir/mysqrt.cxx.obj	ea7b6c6bb0b5b5ce
+9310	10093	7210701896355550	CMakeFiles/Tutorial.dir/tutorial.cxx.obj	acc7aae10f65e346
+12718	12879	7210701924089598	MathFunctionsd.dll	556ffd72f4c69b01
+12879	13022	7210701925383320	Tutoriald.exe	22b4d2d13e921bb0
